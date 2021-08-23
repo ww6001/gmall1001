@@ -3,7 +3,6 @@ package com.xpower;
 /**
  * Hello world!
  *
- *
  */
 public class App 
 {
